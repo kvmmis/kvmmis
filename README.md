@@ -13,7 +13,6 @@
 
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kvmmis&layout=compact&theme=dark"/><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kvmmis&theme=dark"/><br>
 <img src="https://github-readme-stats.vercel.app/api?username=kvmmis&show_icons=true&locale=en&theme=dark"/>
 ![](https://komarev.com/ghpvc/?username=adrianmaj&style=for-the-badge)
 
