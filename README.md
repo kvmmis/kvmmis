@@ -3,4 +3,18 @@
 ###  Currently studying new stuff and working for my project
 
 ## Languages and Tools that I know
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,html,css,sass,bootstrap,gulp)]
+
+## Currently learning
+[![My Skills](https://skillicons.dev/icons?i=js)]
+
+## Want to learn
+[![My Skills](https://skillicons.dev/icons?i=ts,react)]
+
+## Stats
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kvmmis&layout=compact&theme=dark"/><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kvmmis&theme=dark"/><br>
+<img src="https://github-readme-stats.vercel.app/api?username=kvmmis&show_icons=true&locale=en&theme=dark"/>
+![](https://komarev.com/ghpvc/?username=adrianmaj&style=for-the-badge)
+
+
