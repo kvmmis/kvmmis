@@ -3,13 +3,13 @@
 ###  Currently studying new stuff and working for my project
 
 ## Languages and Tools that I know
-[![My Skills](https://skillicons.dev/icons?i=git,html,css,sass,bootstrap,gulp)]
+![My Skills](https://skillicons.dev/icons?i=git,html,css,sass,bootstrap,gulp)
 
 ## Currently learning
-[![My Skills](https://skillicons.dev/icons?i=js)]
+![My Skills](https://skillicons.dev/icons?i=js)
 
 ## Want to learn
-[![My Skills](https://skillicons.dev/icons?i=ts,react)]
+![My Skills](https://skillicons.dev/icons?i=ts,react)
 
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kvmmis&layout=compact&theme=dark"/><br>
